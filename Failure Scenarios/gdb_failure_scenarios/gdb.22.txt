@@ -1,0 +1,40 @@
+INSTANCE NAME: gdb.22
+NUMBER OF VERTICES: 12
+NUMBER OF EDGES: 25
+NUMBER OF REQUIRED_EDGES: 9
+NUMBER OF NON_REQUIRED_EDGES: 16
+NUMBER OF VEHICLES: 4
+VEHICLE CAPACITY: 38
+RECHARGE TIME: 76
+LIST_REQUIRED_EDGES:
+(1,8) edgeweight 9.0
+(1,9) edgeweight 4.0
+(2,3) edgeweight 15.0
+(3,9) edgeweight 6.0
+(4,11) edgeweight 17.0
+(7,2) edgeweight 6.0
+(8,12) edgeweight 5.0
+(9,10) edgeweight 19.0
+(11,12) edgeweight 7.0
+LIST_NON_REQUIRED_EDGES:
+(1,10) edgeweight 13.0
+(1,11) edgeweight 12.0
+(1,2) edgeweight 11.0
+(1,4) edgeweight 7.0
+(1,5) edgeweight 9.0
+(2,4) edgeweight 18.0
+(2,5) edgeweight 8.0
+(3,4) edgeweight 8.0
+(3,8) edgeweight 18.0
+(4,6) edgeweight 10.0
+(4,7) edgeweight 11.0
+(5,6) edgeweight 15.0
+(5,7) edgeweight 5.0
+(6,11) edgeweight 3.0
+(8,9) edgeweight 14.0
+(10,12) edgeweight 2.0
+FAILURE_SCENARIO:
+Vehicle 3 will fail in 7 time units.
+Vehicle 2 will fail in 18 time units.
+Vehicle 1 will fail in 19 time units.
+DEPOTS: 1, 6, 8

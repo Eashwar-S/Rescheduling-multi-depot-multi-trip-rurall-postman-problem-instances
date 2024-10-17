@@ -1,0 +1,78 @@
+INSTANCE NAME: bccm.70
+NUMBER OF VERTICES: 30
+NUMBER OF EDGES: 63
+NUMBER OF REQUIRED_EDGES: 20
+NUMBER OF NON_REQUIRED_EDGES: 43
+NUMBER OF VEHICLES: 10
+VEHICLE CAPACITY: 20.0
+RECHARGE TIME: 40.0
+LIST_REQUIRED_EDGES:
+(13,16) edgeweight 8.0
+(1,8) edgeweight 7.0
+(12,16) edgeweight 6.0
+(11,20) edgeweight 10.0
+(9,15) edgeweight 3.0
+(21,28) edgeweight 5.0
+(12,13) edgeweight 3.0
+(25,30) edgeweight 1.0
+(2,9) edgeweight 5.0
+(18,23) edgeweight 3.0
+(15,19) edgeweight 7.0
+(8,13) edgeweight 6.0
+(7,12) edgeweight 8.0
+(4,6) edgeweight 3.0
+(1,2) edgeweight 4.0
+(23,30) edgeweight 3.0
+(14,15) edgeweight 9.0
+(18,26) edgeweight 9.0
+(4,7) edgeweight 1.0
+(6,11) edgeweight 7.0
+LIST_NON_REQUIRED_EDGES:
+(1,5) edgeweight 3.0
+(1,9) edgeweight 10.0
+(2,3) edgeweight 3.0
+(5,4) edgeweight 5.0
+(5,8) edgeweight 8.0
+(8,7) edgeweight 8.0
+(8,9) edgeweight 7.0
+(8,14) edgeweight 7.0
+(8,15) edgeweight 10.0
+(9,10) edgeweight 3.0
+(3,10) edgeweight 6.0
+(10,15) edgeweight 5.0
+(10,19) edgeweight 10.0
+(6,7) edgeweight 3.0
+(11,12) edgeweight 5.0
+(11,16) edgeweight 5.0
+(13,14) edgeweight 5.0
+(13,17) edgeweight 7.0
+(14,17) edgeweight 4.0
+(15,18) edgeweight 3.0
+(19,18) edgeweight 2.0
+(16,17) edgeweight 9.0
+(16,20) edgeweight 3.0
+(16,21) edgeweight 7.0
+(20,21) edgeweight 7.0
+(20,24) edgeweight 2.0
+(20,27) edgeweight 5.0
+(17,18) edgeweight 5.0
+(17,22) edgeweight 5.0
+(21,22) edgeweight 5.0
+(21,24) edgeweight 5.0
+(21,29) edgeweight 8.0
+(22,23) edgeweight 10.0
+(22,25) edgeweight 2.0
+(22,29) edgeweight 4.0
+(23,26) edgeweight 7.0
+(26,30) edgeweight 3.0
+(24,27) edgeweight 5.0
+(24,28) edgeweight 2.0
+(27,28) edgeweight 10.0
+(28,29) edgeweight 7.0
+(29,25) edgeweight 3.0
+(29,30) edgeweight 6.0
+FAILURE_SCENARIO:
+Vehicle 4 will fail in 62 time units.
+Vehicle 9 will fail in 63 time units.
+Vehicle 8 will fail in 59 time units.
+DEPOTS: 1, 6, 12, 18, 24, 30

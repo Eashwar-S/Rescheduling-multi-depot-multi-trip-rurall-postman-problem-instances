@@ -1,0 +1,112 @@
+INSTANCE NAME: eglese.6
+NUMBER OF VERTICES: 77
+NUMBER OF EDGES: 98
+NUMBER OF REQUIRED_EDGES: 32
+NUMBER OF NON_REQUIRED_EDGES: 66
+NUMBER OF VEHICLES: 16
+VEHICLE CAPACITY: 184.0
+RECHARGE TIME: 368.0
+LIST_REQUIRED_EDGES:
+(24,53) edgeweight 24.0
+(56,42) edgeweight 26.0
+(23,26) edgeweight 12.0
+(66,68) edgeweight 45.0
+(62,67) edgeweight 31.0
+(12,76) edgeweight 7.0
+(26,28) edgeweight 18.0
+(19,50) edgeweight 30.0
+(10,11) edgeweight 12.0
+(60,67) edgeweight 29.0
+(42,57) edgeweight 14.0
+(18,19) edgeweight 41.0
+(71,73) edgeweight 5.0
+(56,67) edgeweight 36.0
+(43,42) edgeweight 11.0
+(23,31) edgeweight 40.0
+(41,42) edgeweight 18.0
+(31,30) edgeweight 14.0
+(49,51) edgeweight 10.0
+(2,3) edgeweight 14.0
+(43,44) edgeweight 78.0
+(25,29) edgeweight 27.0
+(59,69) edgeweight 11.0
+(31,32) edgeweight 58.0
+(58,69) edgeweight 32.0
+(19,21) edgeweight 38.0
+(58,60) edgeweight 33.0
+(62,66) edgeweight 16.0
+(13,77) edgeweight 12.0
+(62,63) edgeweight 30.0
+(5,6) edgeweight 8.0
+(32,33) edgeweight 30.0
+LIST_NON_REQUIRED_EDGES:
+(1,2) edgeweight 32.0
+(2,4) edgeweight 17.0
+(4,5) edgeweight 56.0
+(4,69) edgeweight 75.0
+(5,7) edgeweight 6.0
+(9,10) edgeweight 20.0
+(9,8) edgeweight 26.0
+(11,12) edgeweight 32.0
+(11,59) edgeweight 78.0
+(11,48) edgeweight 79.0
+(12,16) edgeweight 29.0
+(16,13) edgeweight 13.0
+(13,14) edgeweight 7.0
+(14,15) edgeweight 7.0
+(15,17) edgeweight 26.0
+(15,18) edgeweight 38.0
+(15,77) edgeweight 13.0
+(18,20) edgeweight 21.0
+(18,72) edgeweight 92.0
+(19,20) edgeweight 32.0
+(20,76) edgeweight 8.0
+(21,22) edgeweight 17.0
+(21,51) edgeweight 2.0
+(22,75) edgeweight 24.0
+(22,24) edgeweight 4.0
+(75,23) edgeweight 17.0
+(75,25) edgeweight 16.0
+(32,34) edgeweight 43.0
+(32,35) edgeweight 86.0
+(33,36) edgeweight 27.0
+(33,37) edgeweight 75.0
+(35,41) edgeweight 15.0
+(35,39) edgeweight 7.0
+(41,40) edgeweight 9.0
+(44,45) edgeweight 12.0
+(44,46) edgeweight 13.0
+(44,59) edgeweight 28.0
+(45,46) edgeweight 12.0
+(46,47) edgeweight 33.0
+(47,48) edgeweight 10.0
+(47,49) edgeweight 9.0
+(49,50) edgeweight 8.0
+(50,52) edgeweight 2.0
+(51,53) edgeweight 4.0
+(52,54) edgeweight 4.0
+(52,53) edgeweight 4.0
+(55,56) edgeweight 6.0
+(57,58) edgeweight 78.0
+(58,59) edgeweight 25.0
+(60,61) edgeweight 39.0
+(60,62) edgeweight 23.0
+(63,65) edgeweight 21.0
+(63,64) edgeweight 9.0
+(76,77) edgeweight 35.0
+(7,8) edgeweight 18.0
+(24,25) edgeweight 27.0
+(25,26) edgeweight 17.0
+(26,27) edgeweight 15.0
+(28,29) edgeweight 16.0
+(37,38) edgeweight 8.0
+(37,39) edgeweight 21.0
+(39,40) edgeweight 5.0
+(70,71) edgeweight 56.0
+(71,72) edgeweight 6.0
+(72,73) edgeweight 5.0
+(73,74) edgeweight 25.0
+FAILURE_SCENARIO:
+Vehicle 11 will fail in 110 time units.
+Vehicle 12 will fail in 42 time units.
+DEPOTS: 1, 6, 11, 17, 22, 28, 33, 39, 44, 49, 55, 60, 66, 71, 77

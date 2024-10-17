@@ -1,0 +1,47 @@
+INSTANCE NAME: bccm.9
+NUMBER OF VERTICES: 24
+NUMBER OF EDGES: 34
+NUMBER OF REQUIRED_EDGES: 6
+NUMBER OF NON_REQUIRED_EDGES: 28
+NUMBER OF VEHICLES: 3
+VEHICLE CAPACITY: 24.0
+RECHARGE TIME: 48.0
+LIST_REQUIRED_EDGES:
+(12,13) edgeweight 5.0
+(16,17) edgeweight 3.0
+(13,17) edgeweight 1.0
+(6,12) edgeweight 9.0
+(11,15) edgeweight 3.0
+(21,24) edgeweight 8.0
+LIST_NON_REQUIRED_EDGES:
+(1,2) edgeweight 4.0
+(1,3) edgeweight 5.0
+(2,4) edgeweight 2.0
+(3,4) edgeweight 3.0
+(3,9) edgeweight 4.0
+(4,5) edgeweight 8.0
+(9,10) edgeweight 8.0
+(9,19) edgeweight 9.0
+(5,10) edgeweight 8.0
+(5,11) edgeweight 5.0
+(10,11) edgeweight 11.0
+(10,20) edgeweight 4.0
+(11,12) edgeweight 4.0
+(6,7) edgeweight 5.0
+(7,8) edgeweight 2.0
+(12,16) edgeweight 8.0
+(8,14) edgeweight 3.0
+(14,13) edgeweight 1.0
+(14,18) edgeweight 2.0
+(19,20) edgeweight 9.0
+(19,22) edgeweight 5.0
+(20,21) edgeweight 5.0
+(20,23) edgeweight 4.0
+(15,16) edgeweight 6.0
+(15,21) edgeweight 3.0
+(17,18) edgeweight 7.0
+(22,23) edgeweight 9.0
+(23,24) edgeweight 12.0
+FAILURE_SCENARIO:
+Vehicle 1 will fail in 29 time units.
+DEPOTS: 4, 8, 16, 24

@@ -1,0 +1,51 @@
+INSTANCE NAME: gdb.37
+NUMBER OF VERTICES: 9
+NUMBER OF EDGES: 36
+NUMBER OF REQUIRED_EDGES: 13
+NUMBER OF NON_REQUIRED_EDGES: 23
+NUMBER OF VEHICLES: 6
+VEHICLE CAPACITY: 16
+RECHARGE TIME: 32
+LIST_REQUIRED_EDGES:
+(1,2) edgeweight 3.0
+(1,3) edgeweight 5.0
+(1,4) edgeweight 6.0
+(1,5) edgeweight 6.0
+(1,9) edgeweight 8.0
+(2,5) edgeweight 3.0
+(2,9) edgeweight 4.0
+(4,5) edgeweight 5.0
+(4,6) edgeweight 3.0
+(4,9) edgeweight 3.0
+(6,7) edgeweight 6.0
+(6,8) edgeweight 1.0
+(8,9) edgeweight 1.0
+LIST_NON_REQUIRED_EDGES:
+(1,6) edgeweight 4.0
+(1,7) edgeweight 4.0
+(1,8) edgeweight 5.0
+(2,3) edgeweight 6.0
+(2,4) edgeweight 1.0
+(2,6) edgeweight 7.0
+(2,7) edgeweight 4.0
+(2,8) edgeweight 5.0
+(3,4) edgeweight 5.0
+(3,5) edgeweight 7.0
+(3,6) edgeweight 7.0
+(3,7) edgeweight 7.0
+(3,8) edgeweight 7.0
+(3,9) edgeweight 3.0
+(4,7) edgeweight 1.0
+(4,8) edgeweight 1.0
+(5,6) edgeweight 7.0
+(5,7) edgeweight 4.0
+(5,8) edgeweight 7.0
+(5,9) edgeweight 8.0
+(6,9) edgeweight 1.0
+(7,8) edgeweight 1.0
+(7,9) edgeweight 2.0
+FAILURE_SCENARIO:
+Vehicle 6 will fail in 6 time units.
+Vehicle 3 will fail in 0 time units.
+Vehicle 4 will fail in 8 time units.
+DEPOTS: 1, 7
