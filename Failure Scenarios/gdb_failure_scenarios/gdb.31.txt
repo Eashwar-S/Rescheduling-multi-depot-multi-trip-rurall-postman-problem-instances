@@ -1,35 +1,50 @@
-INSTANCE NAME: gdb.31
-NUMBER OF VERTICES: 12
-NUMBER OF EDGES: 22
-NUMBER OF REQUIRED_EDGES: 8
-NUMBER OF NON_REQUIRED_EDGES: 14
-NUMBER OF VEHICLES: 4
-VEHICLE CAPACITY: 40
-RECHARGE TIME: 80
+NAME: gdb.31
+NUMBER OF VERTICES: 9
+NUMBER OF EDGES: 36
+NUMBER OF REQUIRED_EDGES: 13
+NUMBER OF NON_REQUIRED_EDGES: 23
+NUMBER OF VEHICLES: 6
+NUMBER OF CAPACITY: 16
+RECHARGE TIME: 32
 LIST_REQUIRED_EDGES:
-(2,4) edgeweight 9.0
-(3,12) edgeweight 6.0
-(5,11) edgeweight 20.0
-(5,12) edgeweight 11.0
-(6,7) edgeweight 4.0
-(6,12) edgeweight 3.0
-(9,11) edgeweight 14.0
-(10,11) edgeweight 12.0
+(1,2) edge weight 3.0
+(1,3) edge weight 5.0
+(1,4) edge weight 6.0
+(1,5) edge weight 6.0
+(1,9) edge weight 8.0
+(2,5) edge weight 3.0
+(2,9) edge weight 4.0
+(4,5) edge weight 5.0
+(4,6) edge weight 3.0
+(4,9) edge weight 3.0
+(6,7) edge weight 6.0
+(6,8) edge weight 1.0
+(8,9) edge weight 1.0
 LIST_NON_REQUIRED_EDGES:
-(1,2) edgeweight 13.0
-(1,4) edgeweight 17.0
-(1,7) edgeweight 19.0
-(1,9) edgeweight 11.0
-(1,10) edgeweight 19.0
-(1,12) edgeweight 4.0
-(2,9) edgeweight 2.0
-(3,4) edgeweight 20.0
-(3,5) edgeweight 5.0
-(5,6) edgeweight 7.0
-(7,8) edgeweight 8.0
-(8,10) edgeweight 3.0
-(8,11) edgeweight 10.0
-(9,10) edgeweight 16.0
+(1,6) edge weight 4.0
+(1,7) edge weight 4.0
+(1,8) edge weight 5.0
+(2,3) edge weight 6.0
+(2,4) edge weight 1.0
+(2,6) edge weight 7.0
+(2,7) edge weight 4.0
+(2,8) edge weight 5.0
+(3,4) edge weight 5.0
+(3,5) edge weight 7.0
+(3,6) edge weight 7.0
+(3,7) edge weight 7.0
+(3,8) edge weight 7.0
+(3,9) edge weight 3.0
+(4,7) edge weight 1.0
+(4,8) edge weight 1.0
+(5,6) edge weight 7.0
+(5,7) edge weight 4.0
+(5,8) edge weight 7.0
+(5,9) edge weight 8.0
+(6,9) edge weight 1.0
+(7,8) edge weight 1.0
+(7,9) edge weight 2.0
 FAILURE_SCENARIO:
-Vehicle 1 will fail in 0 time units.
-DEPOTS: 1, 4, 11
+Vehicle 6 will fail in 1 time units.
+Vehicle 2 will fail in 0 time units.
+DEPOT: 1, 7
