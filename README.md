@@ -59,4 +59,4 @@ The repository includes a script `visualize_failure_scenario.py` to visualize th
 ![](output.png)
 
 ## Reference
-1. paper - reference
+1. Sathyamurthy, E., Herrmann, J. W., & Azarm, S. (2024). Rescheduling after vehicle failures in the multi-depot rural postman problem with rechargeable and reusable vehicles. arXiv preprint arXiv:2411.04073.
